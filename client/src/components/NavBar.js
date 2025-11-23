@@ -42,9 +42,7 @@ const [isOpen, setIsOpen]= useState(false); // controla a abertura do componente
           >
            
             </Typography>
-<Box noWrap component='img' title='Logo' sx={{width:'80', }} src="https://cdn.pixabay.com/photo/2017/08/18/15/00/help-2655258_960_720.png"/>
-           
-            
+                  
           <Typography
             variant="h6"
             component="h1"
